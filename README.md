@@ -1,1 +1,1 @@
-# Udacity intro to hadoop mapreduce
+# Repositories for Udacity projects
